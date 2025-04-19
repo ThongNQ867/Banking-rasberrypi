@@ -1,2 +1,5 @@
 flask
+gtts
+io
+pydub
  
